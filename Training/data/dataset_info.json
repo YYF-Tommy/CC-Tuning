@@ -1,0 +1,57 @@
+{
+  "aya_train_mini": {
+  "file_name": "aya_train_mini.json",
+  "columns": {
+    "prompt": "instruction",
+    "response": "output"
+  }
+  },
+  "aya_train_mini_parallel": {
+  "file_name": "aya_train_mini_parallel.json",
+  "columns": {
+    "prompt": "instruction",
+    "response": "output",
+    "aux": "instruction_en"
+  }
+  },
+  "aya_train_mini_all_parallel": {
+  "file_name": "aya_train_mini_all_parallel.json",
+  "columns": {
+    "prompt": "instruction",
+    "response": "output",
+    "aux": "instruction_en"
+  }
+  },
+  "aya_train_mini_add_mt_parallel": {
+  "file_name": "aya_train_mini_add_mt_parallel.json",
+  "columns": {
+    "prompt": "instruction",
+    "response": "output",
+    "aux": "instruction_en"
+  }
+  },
+  "Llama-3.1-8B_SDRRL_parallel": {
+  "file_name": "Llama-3.1-8B_SDRRL_parallel.json",
+  "columns": {
+    "prompt": "instruction",
+    "response": "output",
+    "aux": "instruction_en"
+  }
+  },
+  "Mistral-7B-v0.3_SDRRL_parallel": {
+  "file_name": "Mistral-7B-v0.3_SDRRL_parallel.json",
+  "columns": {
+    "prompt": "instruction",
+    "response": "output",
+    "aux": "instruction_en"
+  }
+  },
+  "Qwen2.5-7B_SDRRL_parallel": {
+  "file_name": "Qwen2.5-7B_SDRRL_parallel.json",
+  "columns": {
+    "prompt": "instruction",
+    "response": "output",
+    "aux": "instruction_en"
+  }
+  }
+}
